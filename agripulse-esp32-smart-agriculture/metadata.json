@@ -1,0 +1,8 @@
+{
+  "name": "AgriPulse ESP32 Smart Agriculture",
+  "description": "Smart Agriculture Monitoring and Automatic Irrigation System using ESP32 IoT telemetry, real-time sensor analytics, customizable thresholds, and fail-safe motor controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
